@@ -1,5 +1,5 @@
+import { add } from 'src/index'
 import { describe, it, expect } from 'vitest'
-import { add } from '../src'
 
 describe('add', () => {
   it('should add two numbers together', () => {
